@@ -9,3 +9,4 @@ wheels/
 # Virtual environments
 .venv
 .env
+*fer2013.csv
